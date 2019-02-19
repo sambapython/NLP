@@ -1,0 +1,14 @@
+NLp:
+    finding the usefull information from the written text
+sentimental analysis
+topic modeling
+text generation
+
+take an example to understand the natural language processing. to start your app we need to start with the question.
+
+simple question: if i read more will i get a higher data? is a question. What are the data required to answer this question.
+
+studentid and number of hours they studied and the grade they got.
+id,#hours studied,grade
+
+in the data(grades-data.csv) lets draw some graphs and get the conclusions.
