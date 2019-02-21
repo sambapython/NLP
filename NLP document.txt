@@ -11,4 +11,4 @@ simple question: if i read more will i get a higher data? is a question. What ar
 studentid and number of hours they studied and the grade they got.
 id,#hours studied,grade
 
-in the data(grades-data.csv) lets draw some graphs and get the conclusions.
+in the data(grades-data.csv) lets draw some graphs and get the conclusions. look at the notebook 13-17 cells to get the graphs.
